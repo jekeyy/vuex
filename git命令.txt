@@ -1,0 +1,19 @@
+git clone http地址
+cd film
+npm install下载node_modules
+npm run serve启动项目
+
+上传
+git init
+git add .
+git commit -m""备注
+git config --global user.email "1627490853@qq.com"
+git config --global user.name "@xuhuahai"
+git commit -m""备注
+git push
+
+新仓库
+git clone http地址
+vue create vuex
+cd vuex
+npm run serve
